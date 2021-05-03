@@ -8,3 +8,5 @@ If the word is 'Real', it will make a sound meaning the coin is Real.
 
 Here it is a capture of the project:
 
+![alt text](https://github.com/mireyamdev-hub/AutomatedCoinDetector/blob/main/Screenshot/screenshot.jpg)
+
